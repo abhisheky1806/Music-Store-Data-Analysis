@@ -1,4 +1,4 @@
-# Music Store Data Analysis 🎧
+# Music Store Data Analysis Using SQL 🎧
 
 This project focuses on analyzing music store data with SQL. The dataset has 11 tables: Employee, Customer, Invoice, InvoiceLine, Track, MediaType, Genre, Album, Artist, PlaylistTrack, and Playlist. This project intends to answer many questions and obtain important insights into the music store's operations by applying SQL queries to the dataset.
 
@@ -208,7 +208,7 @@ The project repository is structured as follows:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/kishlayjeet/Music-Store-Data-Analysis.git
+   git clone https://github.com/abhisheky1806/Music-Store-Data-Analysis.git
    ```
 
 2. Import the dataset into your SQL database management system.
@@ -217,4 +217,4 @@ The project repository is structured as follows:
 
 ## Contributing
 
-Contributions to this project are welcome. If you have suggestions for improvements or find any issues, feel free to open a pull request or submit an issue in the repository.
+Feel free to contribute in this project. If you have any scope of improvements or find any issues, feel free to open a pull request or submit an issue in the repository.
